@@ -1,5 +1,11 @@
 ###########################
-This a server side application
-gets user input city and show the location's current weather!!
-follows Express and Node.js
+
+
+1.This a server side application
+
+2.gets user input city and show the location's current weather!!
+
+3.follows Express and Node.js
+
+
 ############################
